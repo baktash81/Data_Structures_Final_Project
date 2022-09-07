@@ -1,0 +1,16 @@
+f:\Lab\DrugStore\DrugStore\bin\Debug\net5.0\DrugStore.exe
+f:\Lab\DrugStore\DrugStore\bin\Debug\net5.0\DrugStore.deps.json
+f:\Lab\DrugStore\DrugStore\bin\Debug\net5.0\DrugStore.runtimeconfig.json
+f:\Lab\DrugStore\DrugStore\bin\Debug\net5.0\DrugStore.runtimeconfig.dev.json
+f:\Lab\DrugStore\DrugStore\bin\Debug\net5.0\DrugStore.dll
+f:\Lab\DrugStore\DrugStore\bin\Debug\net5.0\ref\DrugStore.dll
+f:\Lab\DrugStore\DrugStore\bin\Debug\net5.0\DrugStore.pdb
+f:\Lab\DrugStore\DrugStore\obj\Debug\net5.0\DrugStore.csproj.AssemblyReference.cache
+f:\Lab\DrugStore\DrugStore\obj\Debug\net5.0\DrugStore.GeneratedMSBuildEditorConfig.editorconfig
+f:\Lab\DrugStore\DrugStore\obj\Debug\net5.0\DrugStore.AssemblyInfoInputs.cache
+f:\Lab\DrugStore\DrugStore\obj\Debug\net5.0\DrugStore.AssemblyInfo.cs
+f:\Lab\DrugStore\DrugStore\obj\Debug\net5.0\DrugStore.csproj.CoreCompileInputs.cache
+f:\Lab\DrugStore\DrugStore\obj\Debug\net5.0\DrugStore.dll
+f:\Lab\DrugStore\DrugStore\obj\Debug\net5.0\ref\DrugStore.dll
+f:\Lab\DrugStore\DrugStore\obj\Debug\net5.0\DrugStore.pdb
+f:\Lab\DrugStore\DrugStore\obj\Debug\net5.0\DrugStore.genruntimeconfig.cache

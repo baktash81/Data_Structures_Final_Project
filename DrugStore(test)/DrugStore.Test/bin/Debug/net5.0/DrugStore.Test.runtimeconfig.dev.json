@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dsool\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dsool\\.nuget\\packages"
+    ]
+  }
+}
